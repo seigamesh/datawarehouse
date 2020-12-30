@@ -1,5 +1,5 @@
 # Project 3: Data Warehouse with AWS Redshift and S3
---------------
+
 ## 1. Aim of the project
 
 The goal of this project is to build an ETL pipeline that extracts a music streaming startup, Sparkify's data from S3, stages it in Redshift, and transforms it into a set of dimensional tables. The data resides in S3 in a directory of JSON logs on user activity on the app. 
