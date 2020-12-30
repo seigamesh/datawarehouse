@@ -70,7 +70,7 @@ month,
 year,  
 weekday*
 
-![design](./images/databaseschemadesign.png)
+![design](./databaseschemadesign.png)
  
 ## 4. Steps to build ETL pipeline and complete creating schema 
 
