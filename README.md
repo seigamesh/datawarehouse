@@ -1,4 +1,4 @@
-# Project 3: Data Warehouse with AWS Redshift and S3
+# Data Warehouse with AWS Redshift and S3
 
 ## 1. Aim of the project
 
